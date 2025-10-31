@@ -23,30 +23,6 @@ CSS3 — Custom styling with responsiveness and glassmorphism effects
 
 React Icons — For clean and scalable iconography
 
-📁 Project Structure
-portfolio/
-├── public/
-│   ├── images/
-│   │   ├── price-tracker.jpg
-│   │   ├── scalping-bot.jpg
-│   │   ├── scape-transform.jpg
-│   │   ├── csv-db.jpg
-│   │   └── telegram-social.jpg
-│   └── index.html
-├── src/
-│   ├── components/
-│   │   ├── Header.js
-│   │   ├── Hero.js
-│   │   ├── About.js
-│   │   ├── Skills.js
-│   │   ├── Projects.js
-│   │   └── Contact.js
-│   ├── styles/
-│   │   ├── Header.css
-│   │   ├── Projects.css
-│   │   └── ...
-│   └── App.js
-└── README.md
 
 💡 Features
 
