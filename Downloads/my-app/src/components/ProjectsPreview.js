@@ -11,7 +11,7 @@ const projects = [
     tech: ['Python', 'Requests', 'API', 'JSON'],
     live: '#',
     github: 'https://github.com/JhonsonAyalew/price-tracker0',
-    image: '/price-tracker.jpg',
+    image: '/price-tracker.png',
   },
   {
     title: 'Scalping Bot',
@@ -20,7 +20,7 @@ const projects = [
     tech: ['Python', 'Binance API', 'Pandas'],
     live: '#',
     github: 'https://github.com/JhonsonAyalew/scalping-bot',
-    image: '/scalping-bot.jpg',
+    image: '/scalping-bot.png',
   },
   {
     title: 'Scape Transform Notify',
@@ -29,7 +29,7 @@ const projects = [
     tech: ['Python', 'BeautifulSoup', 'Requests'],
     live: '#',
     github: 'https://github.com/JhonsonAyalew/scape-transform-notify',
-    image: '/scape-transform.jpg',
+    image: '/scape-transform.png',
   },
   {
     title: 'CSV DB Utility',
@@ -38,7 +38,7 @@ const projects = [
     tech: ['Python', 'SQLite', 'CSV'],
     live: '#',
     github: 'https://github.com/JhonsonAyalew/csv-db-utility',
-    image: '/csv-db.jpg',
+    image: '/csv-db.png',
   },
   {
     title: 'Telegram Social',
@@ -47,7 +47,7 @@ const projects = [
     tech: ['Python', 'Telethon', 'AsyncIO'],
     live: '#',
     github: 'https://github.com/JhonsonAyalew/telegram-social',
-    image: '/telegram-social.jpg',
+    image: '/telegram-social.png',
   },
 ];
 
