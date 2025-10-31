@@ -5,39 +5,51 @@ import '../styles/Projects.css';
 
 const projects = [
   {
-    title: 'Portfolio Website',
-    description: 'A responsive portfolio website built with React, featuring animations and dark mode to showcase my work.',
-    tech: ['React', 'CSS', 'Framer Motion'],
+    title: 'Price Tracker',
+    description:
+      'A web app that tracks and monitors cryptocurrency or stock prices in real-time with auto updates and data visualization.',
+    tech: ['Python', 'Requests', 'API', 'JSON'],
     live: '#',
-    github: '#',
-    image: '/bot.jpg'
+    github: 'https://github.com/JhonsonAyalew/price-tracker0',
+    image: '/price-tracker.jpg',
   },
   {
-    title: 'Peer-to-Peer Chat App',
-    description: 'A desktop chat application built with React and Electron for real-time peer-to-peer communication.',
-    tech: ['React', 'Electron', 'Node.js'],
+    title: 'Scalping Bot',
+    description:
+      'An automated trading bot that performs high-frequency trading strategies for crypto markets, built for accuracy and efficiency.',
+    tech: ['Python', 'Binance API', 'Pandas'],
     live: '#',
-    github: '#',
-    image: '/caht.png'
+    github: 'https://github.com/JhonsonAyalew/scalping-bot',
+    image: '/scalping-bot.jpg',
   },
   {
-    title: 'Face Recognition Desktop App',
-    description: 'A Python desktop application for face recognition and related tasks, providing accurate and fast results.',
-    tech: ['Python', 'OpenCV', 'Tkinter'],
+    title: 'Scape Transform Notify',
+    description:
+      'A data automation tool that scrapes web data, transforms it, and sends real-time notifications to users through messaging services.',
+    tech: ['Python', 'BeautifulSoup', 'Requests'],
     live: '#',
-    github: '#',
-    image: '/face.jpg'
+    github: 'https://github.com/JhonsonAyalew/scape-transform-notify',
+    image: '/scape-transform.jpg',
   },
   {
-    title: 'Agro Hub Website',
-    description: 'A web platform built with Django and HTML to help farmers manage and sell their products easily.',
-    tech: ['Django', 'HTML', 'CSS'],
+    title: 'CSV DB Utility',
+    description:
+      'A utility application that manages, converts, and integrates CSV data with databases for quick analysis and processing.',
+    tech: ['Python', 'SQLite', 'CSV'],
     live: '#',
-    github: '#',
-    image: '/agro.png'
+    github: 'https://github.com/JhonsonAyalew/csv-db-utility',
+    image: '/csv-db.jpg',
+  },
+  {
+    title: 'Telegram Social',
+    description:
+      'A Telegram-based social automation app that interacts with groups and users to automate posting, engagement, and notifications.',
+    tech: ['Python', 'Telethon', 'AsyncIO'],
+    live: '#',
+    github: 'https://github.com/JhonsonAyalew/telegram-social',
+    image: '/telegram-social.jpg',
   },
 ];
-
 
 const Projects = () => {
   const ref = useRef(null);
