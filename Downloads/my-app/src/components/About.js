@@ -48,7 +48,7 @@ const About = () => {
             transition={{ duration: 0.6, delay: 0.4 }}
           >
             <div className="image-frame">
-              <img src="/jhona.jpg" alt="Your Name" />
+              <img src="1763139402296.jpg" alt="Your Name" />
             </div>
           </motion.div>
         </div>
